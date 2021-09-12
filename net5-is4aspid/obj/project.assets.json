@@ -6979,18 +6979,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\awesome-janos-projects\\net5-is4aspid\\net5-is4aspid.csproj",
+      "projectUniqueName": "D:\\Personal\\net5-is4-sql\\net5-is4aspid\\net5-is4aspid.csproj",
       "projectName": "net5-is4aspid",
-      "projectPath": "D:\\Personal\\awesome-janos-projects\\net5-is4aspid\\net5-is4aspid.csproj",
+      "projectPath": "D:\\Personal\\net5-is4-sql\\net5-is4aspid\\net5-is4aspid.csproj",
       "packagesPath": "C:\\Users\\Kiet\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\awesome-janos-projects\\net5-is4aspid\\obj\\",
+      "outputPath": "D:\\Personal\\net5-is4-sql\\net5-is4aspid\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},

@@ -5,13 +5,11 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{E52A2BCC-B841-4181-8E4C-BFCE03C1475F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net5-is4aspid", "net5-is4aspid\net5-is4aspid.csproj", "{B9388020-115D-41DF-AF42-164301BC476B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net5-is4aspid", "net5-is4aspid\net5-is4aspid.csproj", "{B9388020-115D-41DF-AF42-164301BC476B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net5-is4inmem", "net5-is4inmem\net5-is4inmem.csproj", "{2D7F451B-F3F3-484B-BE90-38266AC3DFEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net5-is4inmem", "net5-is4inmem\net5-is4inmem.csproj", "{2D7F451B-F3F3-484B-BE90-38266AC3DFEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net5-is4ef", "net5-is4ef\net5-is4ef.csproj", "{B1108AA9-8DF6-447B-B8C8-09FFC8820C7B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nẹt-is4admin", "nẹt-is4admin\nẹt-is4admin.csproj", "{EC77BD75-31C9-4434-ADD1-EABE82DCF707}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net5-is4ef", "net5-is4ef\net5-is4ef.csproj", "{B1108AA9-8DF6-447B-B8C8-09FFC8820C7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,15 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{B9388020-115D-41DF-AF42-164301BC476B} = {E52A2BCC-B841-4181-8E4C-BFCE03C1475F}
-		{2D7F451B-F3F3-484B-BE90-38266AC3DFEF} = {E52A2BCC-B841-4181-8E4C-BFCE03C1475F}
-		{B1108AA9-8DF6-447B-B8C8-09FFC8820C7B} = {E52A2BCC-B841-4181-8E4C-BFCE03C1475F}
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707} = {E52A2BCC-B841-4181-8E4C-BFCE03C1475F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B9388020-115D-41DF-AF42-164301BC476B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -68,17 +57,16 @@ Global
 		{B1108AA9-8DF6-447B-B8C8-09FFC8820C7B}.Release|x64.Build.0 = Release|Any CPU
 		{B1108AA9-8DF6-447B-B8C8-09FFC8820C7B}.Release|x86.ActiveCfg = Release|Any CPU
 		{B1108AA9-8DF6-447B-B8C8-09FFC8820C7B}.Release|x86.Build.0 = Release|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Debug|x64.Build.0 = Debug|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Debug|x86.Build.0 = Debug|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Release|x64.ActiveCfg = Release|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Release|x64.Build.0 = Release|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Release|x86.ActiveCfg = Release|Any CPU
-		{EC77BD75-31C9-4434-ADD1-EABE82DCF707}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B9388020-115D-41DF-AF42-164301BC476B} = {E52A2BCC-B841-4181-8E4C-BFCE03C1475F}
+		{2D7F451B-F3F3-484B-BE90-38266AC3DFEF} = {E52A2BCC-B841-4181-8E4C-BFCE03C1475F}
+		{B1108AA9-8DF6-447B-B8C8-09FFC8820C7B} = {E52A2BCC-B841-4181-8E4C-BFCE03C1475F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F57AB6BF-F33C-4829-A897-2E376C89ADE8}
 	EndGlobalSection
 EndGlobal

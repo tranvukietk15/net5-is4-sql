@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal\\awesome-janos-projects\\net5-is4ef\\net5-is4ef.csproj": {}
+    "D:\\Personal\\net5-is4-sql\\net5-is4ef\\net5-is4ef.csproj": {}
   },
   "projects": {
-    "D:\\Personal\\awesome-janos-projects\\net5-is4ef\\net5-is4ef.csproj": {
+    "D:\\Personal\\net5-is4-sql\\net5-is4ef\\net5-is4ef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\awesome-janos-projects\\net5-is4ef\\net5-is4ef.csproj",
+        "projectUniqueName": "D:\\Personal\\net5-is4-sql\\net5-is4ef\\net5-is4ef.csproj",
         "projectName": "net5-is4ef",
-        "projectPath": "D:\\Personal\\awesome-janos-projects\\net5-is4ef\\net5-is4ef.csproj",
+        "projectPath": "D:\\Personal\\net5-is4-sql\\net5-is4ef\\net5-is4ef.csproj",
         "packagesPath": "C:\\Users\\Kiet\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\awesome-janos-projects\\net5-is4ef\\obj\\",
+        "outputPath": "D:\\Personal\\net5-is4-sql\\net5-is4ef\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},

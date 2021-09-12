@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQ3eHsWdy629fnyZSPkA3eEdDe1lT1qWi/3f/+Tf86fzdFXTa/Kst1t0JRFv98TVuVdtfFaMCeKpSOyOIl0Y2g==",
+  "dgSpecHash": "0jprziLjYtW9M/bsT1sl1ZreSlTnRb7g/Zm3rSwA1WLAICwTkhGUFwDzBk9LLbfbCU8timodbdgyUzkjasDilg==",
   "success": true,
-  "projectFilePath": "D:\\Personal\\awesome-janos-projects\\net5-is4ef\\net5-is4ef.csproj",
+  "projectFilePath": "D:\\Personal\\net5-is4-sql\\net5-is4ef\\net5-is4ef.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kiet\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Kiet\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
